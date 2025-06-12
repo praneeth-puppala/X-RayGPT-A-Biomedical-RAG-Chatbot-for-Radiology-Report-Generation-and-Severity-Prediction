@@ -19,7 +19,7 @@ Users can input a **clinical query** with or without an uploaded **chest X-ray i
 
 ## 🧱 Architecture
 
-![X-RayGPT Architecture](.assets/workflow.png)
+![X-RayGPT Architecture](./assets/workflow.png)
 
 ---
 
