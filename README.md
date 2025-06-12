@@ -1,6 +1,6 @@
 # X-RayGPT: A Biomedical RAG Chatbot for Radiology Report Generation and Severity Prediction
 
-🧠 **X-RayGPT** is a multimodal Retrieval-Augmented Generation (RAG) pipeline that combines radiology reports and chest X-ray images to generate clinical summaries, predict severity levels, and assist in diagnostic reasoning.
+**X-RayGPT** is a multimodal Retrieval-Augmented Generation (RAG) pipeline that combines radiology reports and chest X-ray images to generate clinical summaries, predict severity levels, and assist in diagnostic reasoning.
 
 ---
 
@@ -19,6 +19,7 @@ Users can input a **clinical query** with or without an uploaded **chest X-ray i
 
 ## 🧱 Architecture
 
+![X-RayGPT Architecture](./workflow.png)
 
 ---
 
