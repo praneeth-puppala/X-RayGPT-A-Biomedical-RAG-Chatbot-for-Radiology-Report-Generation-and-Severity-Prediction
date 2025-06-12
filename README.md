@@ -25,7 +25,7 @@ Users can input a **clinical query** with or without an uploaded **chest X-ray i
 ## 📦 Dataset
 
 Dataset used:  
-**[Indiana University Chest X-rays](https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university)**  
+**[Indiana University Chest X-rays](https://openi.nlm.nih.gov/)**  
 - Includes paired chest X-ray images and radiologist reports.
 
 ---
